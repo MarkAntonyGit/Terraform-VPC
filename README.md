@@ -40,10 +40,13 @@ terraform apply
 ```
 > screenshots
 - _Tfvars File_
+
 ![](https://i.ibb.co/wW7s7cR/tfvars.jpg)
 - _Plan_
+
 ![](https://i.ibb.co/LRtnTRR/plan.jpg)
 - _State List_
+
 ![](https://i.ibb.co/4tSNnfm/state.jpg)
 
 # Behind the script
