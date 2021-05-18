@@ -40,11 +40,11 @@ terraform apply
 ```
 > screenshots
 - _Tfvars File_
-![alt text](https://ibb.co/2tSNSZy)
+![](https://ibb.co/2tSNSZy)
 - _Plan_
-![alt text](https://ibb.co/g9Tz099)
+![](https://ibb.co/g9Tz099)
 - _State List_
-![alt text](https://ibb.co/W5zK43x)
+![](https://ibb.co/W5zK43x)
 
 # Behind the script
 # Terraform Installation and VPC creation code and explanation :
