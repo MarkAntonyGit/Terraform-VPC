@@ -34,6 +34,7 @@ yum install git unzip -y
 git clone https://github.com/MarkAntonyGit/Terraform-VPC
 cd Terraform-VPC
 vim terraform.tfvars - Make Necessary Changes.
+terraform init
 terraform validate
 terraform plan
 terraform apply
